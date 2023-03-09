@@ -10,4 +10,4 @@
 
 **Use this when you want to copy the folder, and keep your p5js in a separate file:**
 
-`cp -r templateFolder folder/newFoldername`
+`cp -r templateFolder existingFolder/newFoldername`
